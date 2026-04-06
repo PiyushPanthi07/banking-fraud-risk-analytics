@@ -307,7 +307,7 @@ CREATE SCHEMA BANKING_DB.gold_v2;
 
 **Piyush Panthi**  
 B.Tech — Artificial Intelligence Engineering | MITS Gwalior  
-📧 [your-email@example.com] · 🔗 [LinkedIn] · 💻 [GitHub]
+📧 piyushpanthiofficial@gmail.com · 🔗 [LinkedIn] · 💻 [GitHub]
 
 > *Built as a portfolio project targeting Data Analyst roles at financial institutions (JPMC, Barclays, Amex, Goldman Sachs, Visa, Mastercard, Razorpay, Big 4).*
 
