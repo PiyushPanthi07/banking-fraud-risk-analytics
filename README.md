@@ -1,4 +1,4 @@
-# 🏦 Banking Fraud & Risk Analytics Platform
+# 🏦 Banking Fraud & Risk Analytics
 
 > **End-to-end behavioral fraud detection and risk intelligence system** — synthetic data engineering → cloud data warehousing → calibrated risk scoring → executive dashboards.  
 > Built independently to replicate production-grade pipelines used at institutions like JPMC, Barclays, and Amex.
